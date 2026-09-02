@@ -8,3 +8,5 @@ Completed notebooks include:
 
 * mod01_box_model.ipynb
 
+
+For the semseter project, I investigated a model. 
